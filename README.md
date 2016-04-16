@@ -1,3 +1,3 @@
 # learnpython
 
-#Test
+Learning python and Git...
