@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("####primeiro usuario: Indo dormir...");
+	printf("Versao do outro usuario: Indo dormir...");
 	sleep(2);
 	printf("Acordando...");
 
