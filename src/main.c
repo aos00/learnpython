@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("Edicao do programa:\n");
+	printf("programa:\n");
 	printf("Indo dormir...");
 	printf("Indo dormir...");
 	sleep(2);
