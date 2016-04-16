@@ -5,6 +5,7 @@ int main()
 {
 	printf("####primeiro usuario:\n");
 	printf("Indo dormir...");
+	printf("Indo dormir...");
 	sleep(2);
 	printf("Acordando...");
 
