@@ -3,9 +3,7 @@
 
 int main()
 {
-	printf("cprograma: modificacao2\n");
-	printf("Indo dormir...");
-	printf("Indo dormir...");
+	printf("Modificacao cprogram");
 	sleep(2);
 	printf("Acordando...");
 
