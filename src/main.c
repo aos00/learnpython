@@ -4,6 +4,7 @@
 int main()
 {
 	printf("main1");
+	printf("Correcao main2");
 	sleep(2);
 	printf("Acordando...");
 
