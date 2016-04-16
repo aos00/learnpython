@@ -3,7 +3,7 @@
 
 int main()
 {
-	printf("####primeiro usuario:\n");
+	printf("Edicao do programa:\n");
 	printf("Indo dormir...");
 	printf("Indo dormir...");
 	sleep(2);
